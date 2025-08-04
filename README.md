@@ -162,7 +162,7 @@ soko-cart/
 ## 🔗 Live Demo
 
 **Frontend:** [https://soko-cart.vercel.app](https://soko-cart.vercel.app)
-**Backend API:** [https://soko-cart-api.onrender.com](https://soko-cart-api.onrender.com)
+**Backend API:** [https://soko-cart-backend.vercel.app/](https://soko-cart-backend.vercel.app/)
 
 ## 👥 Contributing
 
