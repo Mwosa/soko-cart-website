@@ -1,6 +1,6 @@
 # 🛒 Soko Cart - E-Commerce Platform
 
-A full-stack e-commerce application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) featuring user authentication, product management, shopping cart functionality, and secure payment processing.
+SokoCart is a pioneering web-based platform that connects consumers directly with local farmers, offering a seamless way to browse, order and track fresh agricultural products for home delivery.
 
 ## ✨ Features
 
